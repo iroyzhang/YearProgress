@@ -2,7 +2,7 @@
 A tool for calculating the progress of year
 
 ## Usage
-Information can be obtained through static access
+Information can be easily obtained through static access
 ```
 // current year, for example 2020
 let year = YearProgress.currentYear
